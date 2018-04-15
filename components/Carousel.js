@@ -21,5 +21,6 @@ export class MyCarousel extends Component {
               itemWidth={itemWidth}
             />
         );
+        
     }
 }
